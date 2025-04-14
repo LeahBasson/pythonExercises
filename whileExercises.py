@@ -9,10 +9,19 @@
 #     count += 1
 
 #Exercise 3
-name = input("Enter name: ")
-for character in name:
-    print(character)
-    
+# name = input("Enter name: ")
+# for character in name:
+#     print(character)
+
+
+#Using the while loop for exercise 3
+# name = input("Enter your name: ")
+# #length_name = len(name)
+# cnt = 0
+# 
+# while cnt < len(name):
+#     print(name[cnt]," ",cnt) #subscript cnt
+#     cnt += 1
 
 #Exercise 4
 # choice = ""
